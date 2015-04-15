@@ -1,0 +1,10 @@
+git clone - Downloads the repository
+git add - Adds the file to the staging area or the working directory
+git commit - Commits all the changes in the staging area as a singlr 
+change enabling what,when,why of the change to be seen later
+git push - Pushes the our local changes with aremote repository
+git pull - pulls the changes in the remote repository to our local 
+repository so that our local repository is updated
+remote repository - repository hosted on the gitHub server
+local repository - local copy of the repository on india
+
